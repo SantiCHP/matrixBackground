@@ -1,0 +1,16 @@
+@font-face {
+    font-family: matrix;
+    src: url(../matrixSC/css/fonts/matrix-code-nfi/matrix\ code\ nfi.otf) format("opentype");
+}
+
+body {
+    box-sizing: border-box;
+    font-family: matrix;
+    background-color: black;
+    height: 100vh;
+    width: 100vw;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+  }
