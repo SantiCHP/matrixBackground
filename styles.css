@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'matrix_code_nfiregular';
-    src: url(../matrixSC/fonts/matrix-code-nfi/matrix_code_nfi-webfont.otf) format("opentype"),
-         url(../matrixSC/fonts/matrix-code-nfi/matrix_code_nfi-webfont.ttf) format("truetype"),
-         url(../matrixSC/fonts/matrix-code-nfi/matrix_code_nfi-webfont.woff) format("woff"),
-         url(../matrixSC/fonts/matrix-code-nfi/matrix_code_nfi-webfont.woff2) format("woff2");
+    src: url(./fonts/matrix-code-nfi/matrix_code_nfi-webfont.otf) format("opentype"),
+         url(./fonts/matrix-code-nfi/matrix_code_nfi-webfont.ttf) format("truetype"),
+         url(./fonts/matrix-code-nfi/matrix_code_nfi-webfont.woff) format("woff"),
+         url(./fonts/matrix-code-nfi/matrix_code_nfi-webfont.woff2) format("woff2");
     font-weight: normal;
     font-style: normal;
 }
