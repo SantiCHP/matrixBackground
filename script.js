@@ -20,7 +20,7 @@ function matrix () {
 
     //Set color to green and font to 15pt monospace in the drawing context
     ctx.fillStyle = '#0f0';
-    ctx.font = '15pt matrix';
+    ctx.font = '15pt matrix_code_nfiregular';
 
     //for each column put a random character at the end
     ypos.forEach((y, ind) => {
