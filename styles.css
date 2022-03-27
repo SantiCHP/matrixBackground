@@ -1,7 +1,7 @@
 @font-face {
     font-family: matrix;
-    src: url(../matrixSC/css/fonts/matrix-code-nfi/matrix\ code\ nfi.otf) format("opentype"),
-         url(../matrixSC/css/fonts/matrix-code-nfi/matrix\ code\ nfi.ttf) format("truetype");
+    src: url(../matrixSC/fonts/matrix-code-nfi/matrix\ code\ nfi.otf) format("opentype"),
+         url(../matrixSC/fonts/matrix-code-nfi/matrix\ code\ nfi.ttf) format("truetype");
 }
 
 body {
